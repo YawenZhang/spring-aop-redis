@@ -1,0 +1,6 @@
+com\redis\service\UserService.class
+com\redis\Demo.class
+com\redis\service\impl\UserServiceImpl.class
+com\redis\Demo2.class
+com\redis\dao\UserDaoService.class
+com\redis\entry\User.class
